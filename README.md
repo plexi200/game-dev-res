@@ -22,3 +22,10 @@ Legend:
 [🎥, ENG] Angles and Radians (https://www.youtube.com/watch?v=0GkmnPdD6jY)
 
 [🎥, ENG] Trigonometry in Unity (https://www.youtube.com/watch?v=-dGi2Ffdiuk)
+
+## Analytical Geometry
+
+### Dot Product
+
+
+### Cross Product
