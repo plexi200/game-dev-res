@@ -12,6 +12,11 @@ Legend:
 
 [🎥, ENG] Math for Game Developers (https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 
+## Quaternionen
+
+[🎥, GER] Einführung komplexe Zahlen (https://www.youtube.com/watch?v=sF5kIWCq3D8)
+
+...
 
 ## Trigonometry
 
