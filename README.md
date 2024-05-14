@@ -1,7 +1,9 @@
 # Game Development Resources
 
 Legend: 
+
 🎥 = Video
+
 📖 = Book
 
 ## Basics
