@@ -6,8 +6,12 @@ Legend:
 
 📖 = Book
 
-## Basics
+## Playlists
+
 [🎥, ENG] Introduction to Game Development (https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw)
+
+[🎥, ENG] Math for Game Developers (https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
+
 
 ## Trigonometry
 
