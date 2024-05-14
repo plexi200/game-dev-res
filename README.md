@@ -16,3 +16,5 @@ Legend:
 [🎥, GER] Visualisierung des Sinus und Cosinus mit Einheitskreis (https://www.youtube.com/watch?v=RMwrtfig6l8)
 
 [🎥, ENG] Angles and Radians (https://www.youtube.com/watch?v=0GkmnPdD6jY)
+
+[🎥, ENG] Trignonemty in Unity (https://www.youtube.com/watch?v=-dGi2Ffdiuk)
