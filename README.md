@@ -26,7 +26,7 @@ Legend:
 
 [🎥, GER] Einführung komplexe Zahlen (https://www.youtube.com/watch?v=sF5kIWCq3D8)
 
-...
+[🎥, ENG] Understanding quaternion rotation with 2D rotations (https://www.youtube.com/watch?v=tu96O6jxv9A)
 
 ## Analytical Geometry
 
