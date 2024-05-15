@@ -12,12 +12,6 @@ Legend:
 
 [🎥, ENG] Math for Game Developers (https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My)
 
-## Quaternionen
-
-[🎥, GER] Einführung komplexe Zahlen (https://www.youtube.com/watch?v=sF5kIWCq3D8)
-
-...
-
 ## Trigonometry
 
 [🎥, ENG] How to use Sin Cos in Unity (https://www.youtube.com/watch?v=mFOi6W7lohk)
@@ -27,6 +21,12 @@ Legend:
 [🎥, ENG] Angles and Radians (https://www.youtube.com/watch?v=0GkmnPdD6jY)
 
 [🎥, ENG] Trigonometry in Unity (https://www.youtube.com/watch?v=-dGi2Ffdiuk)
+
+## Quaternionen
+
+[🎥, GER] Einführung komplexe Zahlen (https://www.youtube.com/watch?v=sF5kIWCq3D8)
+
+...
 
 ## Analytical Geometry
 
